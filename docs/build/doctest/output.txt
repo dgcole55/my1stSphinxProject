@@ -1,0 +1,17 @@
+Results of doctest builder run on 2024-11-11 20:50:43
+=====================================================
+
+Document: usage
+---------------
+[32m1 item passed all tests:[0m
+ [32m  2 tests in default[0m
+2 tests in 1 item.
+[32m2 passed[0m.
+[1;32mTest passed.[0m
+
+Doctest summary
+===============
+    2 tests
+    0 failures in tests
+    0 failures in setup code
+    0 failures in cleanup code

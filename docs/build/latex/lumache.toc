@@ -1,0 +1,2 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Welcome to Lumache’s documentation!}{3}{chapter.1}%
